@@ -1,4 +1,4 @@
-## Hi there 👋
+## Welcome to GDSC1337 Organization 👋
 
 <!--
 
