@@ -15,3 +15,7 @@ This organization is an open source project where GDSC 1337 share ressources nad
 Right after launching the idea, we will start building open source projects and start accepting contributions from developers all over the country and the world.
 
 
+***How to use this GO?*** <br></br>
+
+- Following our beginner friendly roamap in the technologie you like by browsing the repositories.
+- - Contribute in future projects.
