@@ -6,7 +6,7 @@
 **Here are few things to know about us:**
 
 **Who is GDSC1337 ?** <br></br>
-GDSC 1337 Khouribga chapter, is a group of 1337 students passionate with severl feilds in IT, and thrive to share knowledge about it.<br></br>
+GDSC 1337 Khouribga chapter, is a group of 1337 students passionate with several feilds in IT, and thrive to share knowledge about it.<br></br>
 
 **What is this organization about ?** <br></br>
 This organization is an open source project where GDSC 1337 share ressources nad knowledge in a constant way with contributers around the country and the world, as well as create and collaborate on projects that help on learning the technologies in a more efficiant way.
